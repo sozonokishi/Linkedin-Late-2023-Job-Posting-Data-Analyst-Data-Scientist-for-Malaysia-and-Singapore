@@ -1,2 +1,1 @@
-"# Linkedin-Late-2023-Job-Posting-Data-Analyst-Data-Scientist-for-Malaysia-and-Singapore" 
-"# Linkedin-Late-2023-Job-Posting-Data-Analyst-Data-Scientist-for-Malaysia-and-Singapore" 
+A bunch of datasets obtained during 2023 from public Linkedin job posting with search keywords of "Data Analyst" and "Data Scientist" in locations "Singapore" and "Malaysia".
